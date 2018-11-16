@@ -1,1 +1,3 @@
-ECHO est  activado.
+Fundamental of Computer Science - Final project
+
+Perceptual Bistability
