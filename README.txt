@@ -1,4 +1,4 @@
-# Fundamental of Computer Science - Final project
+Fundamental of Computer Science - Final project
 
 This repository corresponds to my final proyect, focused on Perceptual Bistability exercises - based on 'A Spiking Neuron Model for Binocular Rivalry' (Laing and Chow, 2002) and 'Noise-Induced Alternations in an Attractor Network Model of
 Perceptual Bistability' (Moreno-Bote et al., 2007)
